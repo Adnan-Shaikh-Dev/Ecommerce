@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 // shadcn version 
 shadcn@2.4.0-canary.17
+
+//sample command
+bunx --bun shadcn@2.4.0-canary.17 add componentName
